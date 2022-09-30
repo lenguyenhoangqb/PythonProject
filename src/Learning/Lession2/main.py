@@ -56,5 +56,7 @@ if __name__ == '__main__':
     print("say hi")
     item1 = Item("Lap", 13)
     print(item1.name);
-    item1.is_integer()
+    item1.is_integer(0.7)
     # item1.instantiate_from_something()
+
+
